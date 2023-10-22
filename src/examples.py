@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 
-from sklearn.cluster import KMeans
 from sklearn.datasets import make_blobs, make_circles, make_moons
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import homogeneity_score, silhouette_score

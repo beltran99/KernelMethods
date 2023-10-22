@@ -4,9 +4,7 @@ from typing import Literal
 
 from scipy.linalg import eigh
 from scipy.sparse.linalg import eigsh
-
 from sklearn.utils.extmath import randomized_svd
-from sklearn.decomposition import PCA, KernelPCA
 
 
 class KernelPCA:
