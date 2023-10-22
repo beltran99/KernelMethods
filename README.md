@@ -1,13 +1,6 @@
 # Kernel Methods
 This projects contains classical and kernelized versions of Principal Component Analysis (PCA) and K-Means clustering.
 
-# List of Contents
-1. [PCA](#pca)
-2. [Kernel PCA](#kernel-pca)
-3. [K-Means](#k-means)
-4. [Kernel K-Means](#kernel-k-means)
-5. [Available Kernels](#available-kernels)
-
 ## PCA
 Principant Component Analysis or PCA is a dimensionality reduction technique that projects data into a lower (or equal) dimensional space while trying to keep the most information possible. It is mainly used to visualize and interpret datasets with large numbers of features.
 
